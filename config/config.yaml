@@ -1,0 +1,11 @@
+Seed: 38
+batch_size: 16
+lr: 1e-3
+n_embd: 64
+n_head: 4
+n_layer: 4
+dropout: 0.1
+eval_interval: 100
+max_iterations: 5000
+block_size: 32
+
